@@ -1,5 +1,7 @@
 # JS React Codemods
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nicholas-b-carter/js-react-codemods.svg)](https://greenkeeper.io/)
+
 Personal collection of transforms for everything from jest tests to es5-6-transforms....
 
 ## Resources
