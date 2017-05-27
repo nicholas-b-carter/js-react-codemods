@@ -1,0 +1,22 @@
+{
+  "name": "js-react-codemods",
+  "version": "1.0.0",
+  "description": "A collection of js/react/jest/general codemods",
+  "main": "index.js",
+  "author": "Nicholas Carter",
+  "license": "MIT",
+  "scripts": {
+    "preinstall": "npm install --global jscodeshift jscodemigrate"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-jest": "^20.0.3",
+    "js-codemod": "^7.0.0",
+    "jscodemigrate": "^1.0.5",
+    "jscodeshift": "^0.3.30",
+    "jscodeshift-imports": "^1.0.3",
+    "react-codemod": "^4.0.0"
+  },
+  "repository": "git@github.com:nicholas-b-carter/js-react-codemods.git",
+  "dependencies": {}
+}

@@ -1,0 +1,4 @@
+{
+  "paths": [ "example/src" ],
+  "extensions": "js,jsx,es6"
+}
